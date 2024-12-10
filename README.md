@@ -5,4 +5,4 @@ Download and use as you see fit.
     This project is licensed under the terms of the Creative Commons Attribution ShareAlike 4.0 (CC-BY-SA-4.0) licence.
 
 SAMPLE:
-![CachyOS_Riverbed__3840x2160](https://github.com/user-attachments/assets/78cab195-fbb1-4e00-a068-cc8afb467468)
+![z](https://github.com/user-attachments/assets/b511bcb0-7346-4b90-b86c-eb1f1a494a88)
