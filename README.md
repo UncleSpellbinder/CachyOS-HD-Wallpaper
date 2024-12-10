@@ -5,4 +5,4 @@ Download and use as you see fit.
     This project is licensed under the terms of the Creative Commons Attribution ShareAlike 4.0 (CC-BY-SA-4.0) licence.
 
 SAMPLE:
-![CachyOS_Tree__3840x2160](https://github.com/user-attachments/assets/c158d2d9-6e01-479f-951c-627cc5ec532c)
+![CachyOS_Riverbed__3840x2160](https://github.com/user-attachments/assets/78cab195-fbb1-4e00-a068-cc8afb467468)
